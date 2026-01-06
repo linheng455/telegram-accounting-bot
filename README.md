@@ -47,3 +47,9 @@ Telegram记账
 自动记账工具  
 记账机器人源码  
 Telegram机器人开发  
+
+## English Description
+
+This project describes a Telegram accounting bot solution
+for private chat and group bookkeeping.
+It is suitable for personal use, small teams, and studios.
